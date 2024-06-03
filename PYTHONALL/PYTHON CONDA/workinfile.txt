@@ -1,0 +1,6 @@
+this is python in the vscode.
+Raw data (sometimes called source data, atomic data or primary data) is data that has not been processed for use.
+A distinction is sometimes made between data and information to the effect that information is the 
+end product of data processing 
+  this is data on the next line 
+  this is data on the next line 
